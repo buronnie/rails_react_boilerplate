@@ -1,24 +1,7 @@
-# README
+**This boilerplate sets up:**
+```apple js
+RAILS 5 API server
+React APP
+```
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The goal is to break up frontend and backend work so that they can be deployed to different servers separately. 
